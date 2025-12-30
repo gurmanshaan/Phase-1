@@ -1,0 +1,20 @@
+https://javascript.info/variables
+Variables - To store data
+let - value change
+var(old)
+const - value doesn't change
+
+https://javascript.info/string
+Strings -  
+
+Arrays -
+https://javascript.info/array
+
+
+
+
+Get the last character of string
+
+one string  - abc
+
+str[str.length - 1]

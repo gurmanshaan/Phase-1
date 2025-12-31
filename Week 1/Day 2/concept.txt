@@ -1,0 +1,14 @@
+Loops - Doing the same thing until i say stop
+
+for loop 
+
+for(let i =0; i < arr.length; i++){
+  // do something
+}
+
+Start with i = 0;
+Keep going till i < arr.length
+After each step , increment i 
+
+
+https://javascript.info/while-for

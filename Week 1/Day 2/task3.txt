@@ -1,0 +1,9 @@
+What is the first value of i?
+First value of i is 0.
+What is the last value of i?
+Last value of i is arr.length - 1.
+Why do we use i < arr.length and NOT i <= arr.length?
+We use i < arr.length because array indexes go from 0 to length - 1.
+   Using i <= arr.length would access arr[length], which is undefined.
+
+

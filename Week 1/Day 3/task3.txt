@@ -1,0 +1,7 @@
+Answer in plain English:
+
+What does % (modulus) do? 
+% (modulus) returns the remainder after division.
+
+Why does % 2 === 0 mean even?
+Even numbers are perfectly divisible by 2, so their remainder is 0.

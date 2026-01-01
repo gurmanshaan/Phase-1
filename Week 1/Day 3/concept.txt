@@ -1,0 +1,8 @@
+What is if condition?
+If this is true, then do it.
+
+if (age >= 18) {
+    console.log("Adult");
+}
+
+

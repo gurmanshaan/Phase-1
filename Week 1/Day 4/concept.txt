@@ -1,0 +1,6 @@
+1. A string is immutable
+2. To loop over characters:
+   Convert string → array using split("")
+   Loop over the array
+
+   

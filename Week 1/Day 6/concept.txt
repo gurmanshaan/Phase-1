@@ -1,0 +1,13 @@
+return vs console.log
+
+console.log
+- only shows output
+- cannot be reused
+- not testable
+
+
+return
+- gives value back
+- can be reused
+- can be tested
+- used everywhere in code

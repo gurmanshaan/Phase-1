@@ -1,0 +1,13 @@
+1.What does a loop do?
+ - A loop repeats the same task until a specified condition becomes false.
+Why do we use i < arr.length?
+ - Arrays are zero-indexed, so valid indexes go from 0 to length - 1.
+Using i < arr.length prevents accessing undefined. 
+When should a function return instead of console.log?
+-A function should return when the value needs to be reused, tested, or passed to another function.
+
+Which exercise felt easiest?
+All
+Which one felt slow but understandable?
+None
+Did you panic? (Yes / No) - No
